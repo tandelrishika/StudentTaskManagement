@@ -1,0 +1,48 @@
+body {
+    background: #f5f7fb;
+    color: #202938;
+}
+
+.navbar {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.stat-card {
+    background: white;
+    border-radius: 12px;
+    padding: 18px;
+    min-height: 105px;
+    border: 1px solid #e9edf5;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.stat-card span {
+    display: block;
+    color: #6b7280;
+}
+
+.stat-card strong {
+    display: block;
+    font-size: 1.8rem;
+    margin-top: 5px;
+}
+
+.card {
+    border: 1px solid #e7ebf2;
+    border-radius: 12px;
+}
+
+.table th,
+.table td {
+    padding: 13px 15px;
+    vertical-align: middle;
+}
+
+.table th {
+    background: #f8fafc;
+    white-space: nowrap;
+}
+
+.form-card {
+    max-width: 760px;
+}
